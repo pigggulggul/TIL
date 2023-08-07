@@ -1,4 +1,4 @@
-# TIL(Today I Learned)
+# JUNG EUN SOO 🐖
 
 ## 알고리즘
 
