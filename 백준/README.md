@@ -2,11 +2,7 @@
 
 ## Today I Solved
 
-- <a href="https://github.com/pigggulggul/TIL/tree/master/백준/Today I Solved/README.md">Today I Solved</a>
-
-### 네트워크
-
-- <a href="https://github.com/pigggulggul/TIL/blob/master/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%B4%EB%A1%A0/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/HTTPS%2C%20TCP%2C%20UDP%2C%20POST%2C%20GET.md">HTTPS, TCP, UDP, POST, GET</a>
+- <a href="https://github.com/pigggulggul/TIL/tree/master/Today%20I%20Solved%20(TIV)/README.md">Today I Solved</a>
 
 ## 알고리즘
 
