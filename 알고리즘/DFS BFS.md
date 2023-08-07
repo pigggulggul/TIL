@@ -98,71 +98,36 @@ public static void dfs(int x) {
 - BFS는 큐를 사용하기 때문에, 메모리 사용량이 DFS (Depth-First Search)에 비해 상대적으로 크다는 단점이 있음.
 
 ```java
-import java.util.*;
-public class Main {
-	public static boolean[] visited = new boolean[9];
-	public static ArrayList<ArrayList<Integer>> graph = new ArrayList<ArrayList<Integer>>();
-	//ArrayList는 특정 index원소에 상수시간이 소요되므로 일반적인 배열보다 ArrayList가 좋다.
-	public static void main(String[] args) {
-		// 그래프 초기화
-        for (int i = 0; i < 9; i++) {
-            graph.add(new ArrayList<Integer>());
-        }
+//bfs 미로의 기본 형태
+public static int bfs(int x, int y) {
+		deqX.add(0);
+		deqY.add(0);
 
-        // 노드 1에 연결된 노드 정보 저장
-        graph.get(1).add(2);
-        graph.get(1).add(3);
-        graph.get(1).add(8);
+		while(!deqX.isEmpty()&&!deqY.isEmpty()) {
+			int first = deqX.peek();
+			int second = deqY.peek();
+			deqX.pop();
+			deqY.pop();
 
-        // 노드 2에 연결된 노드 정보 저장
-        graph.get(2).add(1);
-        graph.get(2).add(7);
+			for(int i = 0 ; i < 4 ; i++) {
+				int nx = first+dx[i];
+				int ny = second+dy[i];
 
-        // 노드 3에 연결된 노드 정보 저장
-        graph.get(3).add(1);
-        graph.get(3).add(4);
-        graph.get(3).add(5);
-
-        // 노드 4에 연결된 노드 정보 저장
-        graph.get(4).add(3);
-        graph.get(4).add(5);
-
-        // 노드 5에 연결된 노드 정보 저장
-        graph.get(5).add(3);
-        graph.get(5).add(4);
-
-        // 노드 6에 연결된 노드 정보 저장
-        graph.get(6).add(7);
-
-        // 노드 7에 연결된 노드 정보 저장
-        graph.get(7).add(2);
-        graph.get(7).add(6);
-        graph.get(7).add(8);
-
-        // 노드 8에 연결된 노드 정보 저장
-        graph.get(8).add(1);
-        graph.get(8).add(7);
-
-        bfs(1);
-	}
-
-	public static void bfs(int start) {
-		Queue<Integer> q = new LinkedList<>();
-		q.offer(start);
-		visited[start]=true;
-		while(!q.isEmpty()) {
-			int x = q.poll();
-			System.out.print(x + " ");
-			for(int i = 0 ; i < graph.get(x).size();i++) {
-				int y = graph.get(x).get(i);
-				if(!visited[y]) {
-					q.offer(y);
-					visited[y]=true;
+				if(nx<0 || nx>=N || ny<0|| ny>=M) {
+					continue;
+				}
+				else if( Arr[x][y]==0) {
+					continue;
+				}
+				if(Arr[nx][ny]==1) {
+					Arr[nx][ny]=Arr[first][second]+1;
+					deqX.add(nx);
+					deqY.add(ny);
 				}
 			}
 		}
+		return Arr[N-1][M-1];
 	}
-}
 ```
 
 ### DFS와 BFS가 등장하는 유형
