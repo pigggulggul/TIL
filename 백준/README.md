@@ -2,7 +2,7 @@
 
 ## Today I Solved
 
-- <a href="https://github.com/pigggulggul/TIL/tree/master/Today%20I%20Solved%20(TIV)/README.md">Today I Solved</a>
+- <a href="https://github.com/pigggulggul/TIL/blob/master/%EB%B0%B1%EC%A4%80/Today%20I%20Solved%20(TIV)/README.md">Today I Solved</a>
 
 ## 알고리즘
 
