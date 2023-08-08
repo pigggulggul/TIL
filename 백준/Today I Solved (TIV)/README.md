@@ -6,11 +6,21 @@
 
 ---
 
-### DFS
+### 백준
 
 #### 실버1
 
+[2667번: 단지번호붙이기](https://www.acmicpc.net/problem/2667)
+
+#### 실버4
+
 [2164번: 카드2](https://www.acmicpc.net/problem/2164)
+
+### SWEA
+
+#### 1952 - 수영장
+
+[SW Expert Academy](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq&categoryId=AV5PpFQaAQMDFAUq&categoryType=CODE&&&&&&)
 
 ## 2023-08-07
 
