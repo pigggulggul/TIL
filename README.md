@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=#ffC0CB&height=300&section=header&text=Jung%20Eun%20Soo🐖&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffC0CB&height=300&section=header&text=Jung%20Eun%20Soo🐖&fontSize=80&fontAlign=60&fontAlignY=42)
 
 ## 💙BAEKJOON
 
