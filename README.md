@@ -1,10 +1,11 @@
-# JUNG EUN SOO 🐖
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffC0CB&height=300&section=header&text=Jung%20Eun%20Soo🐖&fontSize=80&fontAlign=60&fontAlignY=42)
 
 ## 💙BAEKJOON
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpigggulggul%2FTIL&count_bg=%23FFE7E9&title_bg=%23FFC3C3&icon=java.svg&icon_color=%23FF2121&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=qufvkdlej)](https://solved.ac/qufvkdlej)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpigggulggul%2FTIL&count_bg=%23FFE7E9&title_bg=%23FFC3C3&icon=java.svg&icon_color=%23FF2121&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=impigggulggul)](https://solved.ac/impigggulggul)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qufvkdlej)](https://solved.ac/qufvkdlej/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=impigggulggul)](https://solved.ac/impigggulggul/)
 
 ## 🔆Platforms & Languages
 
