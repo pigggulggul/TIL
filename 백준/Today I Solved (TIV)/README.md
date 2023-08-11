@@ -10,6 +10,10 @@
 
 #### 실버1
 
+[1931번: 회의실 배정](https://www.acmicpc.net/problem/1931)
+
+#### 실버1
+
 [16926번: 배열 돌리기 1](https://www.acmicpc.net/problem/16926)
 
 #### 실버4
