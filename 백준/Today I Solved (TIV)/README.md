@@ -1,21 +1,26 @@
 ## 2023-08-11
 
+#### 골드4
+
+[17298번: 오큰수](https://www.acmicpc.net/problem/17298)
 
 #### 골드5
 
 [2493번: 탑](https://www.acmicpc.net/problem/2493)
 
-#### 골드4
+#### 실버1
 
-[17298번: 오큰수](https://www.acmicpc.net/problem/17298)
+[16926번: 배열 돌리기 1](https://www.acmicpc.net/problem/16926)
+
+#### 실버4
+
+[2567번: 색종이 - 2](https://www.acmicpc.net/problem/2567)
 
 #### 실버5
 
 [2563번: 색종이](https://www.acmicpc.net/problem/2563)
 
-#### 실버4
 
-[2567번: 색종이 - 2](https://www.acmicpc.net/problem/2567)
 ## 2023-08-10
 
 풀어야 할 문제
