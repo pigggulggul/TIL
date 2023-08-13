@@ -1,4 +1,30 @@
+## 2023-08-14
+
+#### 브론즈3
+
+[1547번: 공](https://www.acmicpc.net/problem/1547)
+
+## 2023-08-13
+
+### SWEA
+
+#### 4008
+
+[SW Expert Academy](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)
+
 ## 2023-08-12
+
+#### 골드4
+
+[2573번: 빙산](https://www.acmicpc.net/problem/2573)
+
+#### 골드5
+
+[16927번: 배열 돌리기 2](https://www.acmicpc.net/problem/16927)
+
+#### 골드5
+
+[15686번: 치킨 배달](https://www.acmicpc.net/problem/15686)
 
 ## 2023-08-11
 
