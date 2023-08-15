@@ -4,6 +4,8 @@
 
 [2630번: 색종이 만들기](https://www.acmicpc.net/problem/2630)
 
+[1780번: 종이의 개수](https://www.acmicpc.net/problem/1780)
+
 ## 2023-08-14
 
 #### 브론즈3
