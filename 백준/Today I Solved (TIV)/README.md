@@ -1,5 +1,15 @@
 ## 2023-08-16
+####  골드2
 
+[3109번: 빵집](https://www.acmicpc.net/problem/3109)
+
+####  골드4
+
+[9663번: N-Queen](https://www.acmicpc.net/problem/9663)
+
+####  골드5
+
+[6593번: 상범 빌딩](https://www.acmicpc.net/problem/6593)
 #### 실버3
 
 [2606번: 바이러스](https://www.acmicpc.net/problem/2606)
