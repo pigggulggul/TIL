@@ -10,6 +10,10 @@
 
 [1074번: Z](https://www.acmicpc.net/problem/1074)
 
+#### SWEA
+
+[SW Expert Academy](https://swexpertacademy.com/main/code/problem/problemDetail.do)
+
 ## 2023-08-16
 
 #### 골드2
