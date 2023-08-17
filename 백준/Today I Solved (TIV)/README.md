@@ -14,7 +14,7 @@
 
 #### SWEA
 
-[SW Expert Academy](https://swexpertacademy.com/main/code/problem/problemDetail.do)
+[SW Expert Academy](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWsBQpPqMNMDFARG)
 
 ## 2023-08-16
 
