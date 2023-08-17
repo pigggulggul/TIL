@@ -4,6 +4,12 @@
 
 [6987번: 월드컵](https://www.acmicpc.net/problem/6987)
 
+[9663번: N-Queen](https://www.acmicpc.net/problem/9663)
+
+#### 실버4
+
+[1074번: Z](https://www.acmicpc.net/problem/1074)
+
 ## 2023-08-16
 
 #### 골드2
