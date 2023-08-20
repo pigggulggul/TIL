@@ -1,7 +1,5 @@
 ## 2023-08-18
 
-<<<<<<< HEAD
-
 #### 골드3
 
 [2206번: 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
@@ -13,22 +11,6 @@
 #### 실버3
 
 [1463번: 1로 만들기](https://www.acmicpc.net/problem/1463)
-
-=======
-
-#### 골드3
-
-[2206번: 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
-
-#### 골드4
-
-[3055번: 탈출](https://www.acmicpc.net/problem/3055)
-
-#### 실버3
-
-[1463번: 1로 만들기](https://www.acmicpc.net/problem/1463)
-
-> > > > > > > 7f9ce9619235f11e20140209be496b39c7b4115c
 
 ## 2023-08-17
 
