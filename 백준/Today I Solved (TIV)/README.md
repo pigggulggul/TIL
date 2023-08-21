@@ -1,3 +1,17 @@
+## 2023-08-22
+
+#### 골드4
+
+[1987번: 알파벳](https://www.acmicpc.net/problem/1987)
+
+#### 골드5
+
+[10026번: 적록색약](https://www.acmicpc.net/problem/10026)
+
+#### 실버1
+
+[1697번: 숨바꼭질](https://www.acmicpc.net/problem/1697)
+
 ## 2023-08-21
 
 #### 골드3
