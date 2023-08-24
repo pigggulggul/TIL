@@ -5,6 +5,15 @@
 
 [SW Expert Academy](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_mSnmKUckDFAWb)
 
+Contact
+
+[SW Expert Academy](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15B1cKAKwCFAYD#none)
+
+풀어야 할 문제
+
+게리맨더링
+
+[17471번: 게리맨더링](https://www.acmicpc.net/problem/17471)
 ## 2023-08-23
 
 ####  골드3
