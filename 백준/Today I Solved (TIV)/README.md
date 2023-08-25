@@ -1,7 +1,7 @@
 ## 2023-08-24
 
 #### D4 
-최소 스피닝트리
+최소 스피닝트리.
 
 [SW Expert Academy](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_mSnmKUckDFAWb)
 
