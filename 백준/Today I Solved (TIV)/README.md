@@ -1,6 +1,7 @@
 ## 2023-08-24
 
-#### D4 
+#### D4
+
 최소 스피닝트리.
 
 [SW Expert Academy](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_mSnmKUckDFAWb)
@@ -14,17 +15,19 @@ Contact
 게리맨더링
 
 [17471번: 게리맨더링](https://www.acmicpc.net/problem/17471)
+
 ## 2023-08-23
 
-####  골드3
+#### 골드3
 
 [4386번: 별자리 만들기](https://www.acmicpc.net/problem/4386)
 
-####  골드5
+#### 골드5
 
 [14891번: 톱니바퀴](https://www.acmicpc.net/problem/14891)
 
 [SW Expert Academy](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeV9sKkcoDFAVH)
+
 ## 2023-08-22
 
 #### 골드4
