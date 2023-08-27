@@ -1,3 +1,41 @@
+## 2023-08-27
+
+### 복습
+
+#### 골드4 2636: 치즈
+
+[2636번: 치즈](https://www.acmicpc.net/problem/2636)
+
+[17281번: ⚾](https://www.acmicpc.net/problem/17281)
+
+#### 골드5
+
+[7576번: 토마토](https://www.acmicpc.net/problem/7576)
+
+#### 실버1
+
+[2667번: 단지번호붙이기](https://www.acmicpc.net/problem/2667)
+
+[2178번: 미로 탐색](https://www.acmicpc.net/problem/2178)
+
+#### 실버4
+
+[2164번: 카드2](https://www.acmicpc.net/problem/2164)
+
+### SWEA
+
+#### 1952 - 수영장
+
+[SW Expert Academy](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq&categoryId=AV5PpFQaAQMDFAUq&categoryType=CODE&&&&&&)
+
+#### 4008 - 숫자만들기
+
+[SW Expert Academy](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH&)
+
+#### 9229 - 한빈이와 SpotMart
+
+[SW Expert Academy](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW8Wj7cqbY0DFAXN)
+
 ## 2023-08-24
 
 #### D4
